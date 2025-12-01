@@ -102,6 +102,21 @@ pip install -r requirements.txt
 
 El informe completo, con toda la metodología, resultados y conclusiones, estará disponible en el siguiente enlace:
 
-**[Acceder al Informe Final](ENLACE_PENDIENTIENTE)**
+**[Acceder al Informe Final](/Notebook_M5_Forecasting.ipynb)**
 
-*(El enlace será añadido una vez que esté disponible, e.g /informe/Informe_M5_Forecasting.pdf)*
+---
+
+## Descarga de la Base de Datos (Kaggle)
+
+Los datos utilizados en este proyecto provienen de la competencia  
+**M5 Forecasting — Accuracy** disponible en Kaggle.
+
+Para descargar el dataset:
+
+1. Crear una cuenta en Kaggle (si no tienes una).  
+2. Acceder a la competencia en el siguiente enlace:  
+   https://www.kaggle.com/competitions/m5-forecasting-accuracy/
+3. Ir a la pestaña **"Data"**.
+4. Descargar todos los archivos `.csv` del dataset.
+5. Colocar los archivos dentro del directorio local:
+
