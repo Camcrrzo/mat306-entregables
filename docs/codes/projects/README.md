@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
 El informe completo, con toda la metodología, resultados y conclusiones, estará disponible en el siguiente enlace:
 
-**[Acceder al Informe Final](docs/codes/projects/Notebook_M5_Forecasting.ipynb)**
+**[Acceder al Informe Final](/docs/codes/projects/Notebook_M5_Forecasting.ipynb)**
 
 ---
 
